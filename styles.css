@@ -78,3 +78,16 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+@media (max-width: 600px)
+{
+  .btn {
+    margin: 4.294%;
+    max-margin: 25px;
+    display: inline-block;
+    height: 50px;
+    width: 34.335%;
+    max-width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
