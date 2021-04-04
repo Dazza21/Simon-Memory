@@ -18,10 +18,12 @@ body {
 }
 
 .btn {
-  margin: 25px;
+  margin: 4.294%;
+  max-margin: 25px;
   display: inline-block;
   height: 200px;
-  width: 200px;
+  width: 34.335%;
+  max-width: 200px;
   border: 10px solid black;
   border-radius: 20%;
 }
